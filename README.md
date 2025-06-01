@@ -4,6 +4,7 @@ Repo bao gồm 4 file code:<br>
 2. final_rbf: Mạng RBF cho dataset rice_data_rbf_split<br>
 3. final_rbf_new: Mạng RBF địa phương tính toán beta cho hàm kích hoạt Gaussian cho dataset rice_data_rbf_split_1<br>
 4. split_data và ml_yolo11: Chia tập data theo cấu trúc yolov11 và train model<br>
+5. Các file test model với tên tương ứng test_cai(test cải bó xôi yolov11)<br>
 Data set ở trên được liệt kê ở link dưới đây:<br>
 Tập dataset được up trên google drive:(dataset và model sử dụng để test)<br>
 [Đây là link drive dataset:] (https://drive.google.com/drive/folders/1B-PWckS3qgo_VhTXFfTEq-YGyIsOxm4I?usp=sharing)<br>
